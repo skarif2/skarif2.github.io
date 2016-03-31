@@ -37,22 +37,22 @@ I love to work exclusively in a full-stack JavaScript environment and things tha
 
 ####Employment History
 
-Game Developer / 143Play
-(February 2015 – February 2016)
-Lead game developer.
+**Game Developer / 143Play**<br />
+(February 2015 – February 2016)<br />
+Lead game developer.<br />
 Game architecture, development (c\#, unity3d), RESTful api-integration and facebook sign-up and sharing.
 
 ####Education
 
-B.Sc. / Daffodil International University<br />
+**B.Sc. / Daffodil International University**<br />
 (January 2011 – April 2015)<br />
 Computer Science and Engineering<br />
 
-HSC / Govt. Yasin College<br />
+**HSC / Govt. Yasin College**<br />
 (April 2007 – June 2010)<br />
 Science<br />
 
-SSC / United Islamia Govt. High School<br />
+**SSC / United Islamia Govt. High School**<br />
 (January 2005 – April 2007)<br />
 Science<br />
 
