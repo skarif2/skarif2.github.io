@@ -27,14 +27,6 @@ Specializing in JavaScript and responsive web architecture, I think I have hands
 -   Linux, GIT, & other server setup / management tasks
 -   Gulp / Grunt for workflow and build process
 
-I love to work exclusively in a full-stack JavaScript environment and things that I keep my eye on while writing code–
-
-1.  Robust automated testing (unit & E2E tests &gt;= 60% code coverage).
-2.  Continuous Integration.
-3.  Modularity and maintainability (easy to change / update)
-4.  Well-documented (YUIDoc)
-5.  Cross-browser compatibility / responsiveness
-
 ####Employment History
 
 **Game Developer / 143Play**<br />
