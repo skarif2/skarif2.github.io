@@ -4,7 +4,7 @@
 >Mohammadpur, Dhaka-1207<br />
 >Mob: +88(0) 1683 813121<br />
 >Email: <skarif2@gmail.com><br />
->Web: skarif2.github.io<br />
+>Web: https://skarif2.github.io<br />
 >LinkedIn: https://www.linkedin.com/in/skarif2<br />
 >StackOverflow: http://stackoverflow.com/users/5786171/sk-arif<br />
 
