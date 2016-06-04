@@ -4,10 +4,9 @@
 >Mohammadpur, Dhaka-1207<br />
 >Mob: +88(0) 1683 813121<br />
 >Email: <skarif2@gmail.com><br />
->Web: https://skarif2.github.io<br />
+>Website: https://skarif2.github.io<br />
 >LinkedIn: https://www.linkedin.com/in/skarif2<br />
 >StackOverflow: http://stackoverflow.com/users/5786171/sk-arif<br />
->Dropbax Referal: https://db.tt/9zAmIJsL
 
 ####Personal statement
 
@@ -15,20 +14,21 @@ A conscientious and professional person with extensive experience in software de
 
 ####Key Skills
 
-Specializing in JavaScript and responsive web architecture, I think I have hands in everything from design in Illustrator / Photoshop to Frontend design and frameworks to AJAX to Backend frameworks to Databases. I feel comfortable working with–
+While learning JavaScript I came to know about a lot of new technologies and I have basic working experience on few of them. Technologies that I have worked with - 
 
--   MEAN (MongoDB, Express.js, Angular.js, Node.js) stack. Also used Sails.js, LoopBack.js for the back-end and backbone.js for the front-end
--   Socket.io for real time web application and chat systems
--   Twitter-Bootstrap, Materialize as CSS frameworks
--   SASS/SCSS as CSS pre-processors
+-   Node.js (Meteor and Express) in back-end
+-   React and Angular on the front-end
+-   MongoDB as NoSQL database
 -   HTML5 (offline access, local storage, web workers, etc.)
 -   Jade and EJS for HTML templating
 -   CSS3 (including media queries and fluid layout design for multiple devices)
--   Facebook Connect & mobile Single Sign On (SSO), friend inviting
--   Google Maps
--   Other social integration / sharing: Twitter, Pinterest
--   Linux, GIT, & other server setup / management tasks
+-   Twitter-Bootstrap, Materialize as CSS frameworks
+-   SASS/SCSS as CSS pre-processors
+-   Facebook, Google, Twitter and Git OAuth and Api integraton
+-   Linux/Unix OS, Git for version control 
 -   Gulp / Grunt for workflow and build process
+-   Mocha, Chai(expect, should), Sinon for testing and mocha-instanbut for code coverage report
+-   TravisCI for continuous integration
 
 ####Employment History
 
