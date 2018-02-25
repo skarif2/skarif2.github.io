@@ -1,4 +1,4 @@
-##Fazlul Haque
+## Fazlul Haque
 
 >House-13, Road-2/A, Sector-5<br />
 >Uttara, Dhaka-1230<br />
@@ -8,11 +8,11 @@
 >LinkedIn: https://www.linkedin.com/in/skarif2<br />
 >StackOverflow: http://stackoverflow.com/users/5786171/sk-arif<br />
 
-####Personal statement
+#### Personal statement
 
 A conscientious and professional person with extensive experience in software development for more than 2 years. Currently focused on web application development using latest technologies and tools. Always try to follow the industry standard during coding. Also love to solve problems and eager to learn cutting-edge technologies. A quick learner, team player, passionate, hard-working and responsible.
 
-####Key Skills
+#### Key Skills
 
 While learning JavaScript I came to know about a lot of new technologies and I have basic to mid-level working experience on few of them. Technologies that I have worked with -
 
@@ -30,7 +30,7 @@ While learning JavaScript I came to know about a lot of new technologies and I h
 -   TravisCI for continuous integration
 -   Linux/Unix OS, Git for version control
 
-####Employment History
+#### Employment History
 
 **Software Engineer / Empire Group**<br />
 (June 2016 – Current)<br />
@@ -56,6 +56,6 @@ Science<br />
 (January 2005 – April 2007)<br />
 Science<br />
 
-####Hobbies & Interests
+#### Hobbies & Interests
 
 I love technology. I think I’m glutton for new technology. Especially in web-development where the landscape keeps on changing very fast. If I don’t keep up, I risk becoming obsolete. I also like sketching and reading books. But I’m not really an outgoing personality. I expect introversion is quite common when it comes to programmers, though.
