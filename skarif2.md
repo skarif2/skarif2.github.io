@@ -42,7 +42,7 @@ Developed Back-end Api and Web-view for AmarRide (an Uber/GrabTaxi like app). Wo
 Lead game developer.<br />
 Game architecture, development (c\#, unity3d), RESTful api-integration and facebook sign-up and sharing.
 
-####Education
+#### Education
 
 **B.Sc. / Daffodil International University**<br />
 (January 2011 – April 2015)<br />
