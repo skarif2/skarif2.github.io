@@ -46,7 +46,7 @@ _Skills: Javascript, Node.js(Express), MongoDB, FCM, SMTP_
 ## **Software Engineer**, Pick N Drop, Contractual, (Mar’17 — Oct’17)
 _Skills: Javascript, Node.js(Express), MongoDB, Google Map’s Api, FCM, SMTP, React, Redux_
   - Analyzed user requirements, designed and coded RESTful api services to support both mobile and web.
-  - Developed dashboard UI with features like realtime tracking using React-Redux and socket.io.
+  - Developed dashboard UI with features like realtime tracking using React-Redux and socket io.
   - Wrote test plans for coded enhancements, and participated in the testing of other team members' enhancements.
   - Debugged and provided quick, efficient solutions for highly critical bugs in major releases of the product.
 
@@ -68,7 +68,7 @@ _Skills: C#, Unity3d, Game architecture, RESTful-api intigration, Facebook OAuth
 # Education
 
 ## **Daffodil International University** (2011 — 2015)
-B.Sc. In Computer Science and Engineering.
+B. Sc. In Computer Science and Engineering.
 
 # Hobbies & Interests
 
