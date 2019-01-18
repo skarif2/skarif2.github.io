@@ -1,7 +1,7 @@
 # **Fazlul Haque**
 
 > [Uttara, Dhaka](https://www.google.com.bd/maps/place/23%C2%B051'47.4%22N+90%C2%B023'32.1%22E/@23.8223387,90.4503899,12.63z/data=!4m6!3m5!1s0x3755c41f39e441b3:0x16596d76569817de!7e2!8m2!3d23.8631551!4d90.3922462?hl=en) · [+880 1719 286264](tel:+8801719286264) · skarif2@gmail.com<br />
->skarif2.me · skarif2.github.io · fb.com/skarif2
+>skarif2.io · skarif2.github.io · fb.com/skarif2
 
 # Personal statement
 
